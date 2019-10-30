@@ -1,4 +1,4 @@
-# MovingBall
+# Moving Ball
 Computer Graphics game - OpenGL, C++
 
 2019 Spring
