@@ -1,7 +1,7 @@
 # MovingBall
 Computer Graphics game - OpenGL, C++
 
-![img1](./image/img1.png)
+![img1](./image/img1.PNG)
 
 ![img2](./image/img2.png)
 
